@@ -39,7 +39,7 @@
     "birthDate": "14-08-1999",
     "cpf": "00000000000",
     "createdAt": "2025-01-22T21:54:22.7875659Z",
-		"updatedAt": "2025-01-22T21:54:22.787566Z"
+    "updatedAt": "2025-01-22T21:54:22.787566Z"
 }
 ```
 
@@ -100,12 +100,12 @@
   ```json
   [
     {
-			"id": "60258b5c-2289-4bdf-8f4d-63d4ffc70dd0",
-      "userId": "c25c2ec5-f68d-4e00-8852-c0f55ab646e5",
-			"balance": 0,
-			"bank": "nubank",
-			"createdAt": "2025-01-22T21:52:49.309617Z",
-			"updatedAt": "2025-01-22T21:52:49.309617Z"
+	"id": "60258b5c-2289-4bdf-8f4d-63d4ffc70dd0",
+	"userId": "c25c2ec5-f68d-4e00-8852-c0f55ab646e5",
+	"balance": 0,
+	"bank": "nubank",
+	"createdAt": "2025-01-22T21:52:49.309617Z",
+	"updatedAt": "2025-01-22T21:52:49.309617Z"
     }
   ]
   ```
@@ -119,4 +119,3 @@
 3. Date formats should follow `DD-MM-YYYY`. Validation errors may occur for incorrect formats.
 
 ---
-
