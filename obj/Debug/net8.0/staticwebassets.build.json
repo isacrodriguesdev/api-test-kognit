@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Pnhil0q147fRlQV+7S/qXOvArCsbOYvp1ReLFUJuM8E=",
+  "Source": "lnwallet",
+  "BasePath": "_content/lnwallet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
